@@ -16,7 +16,8 @@ services:
     entrypoint: "bash"
     command: [
       "-c",
-      "set -x && while true; do date && curl -s my-webserver:5678; sleep 2; done;",]
+      "while true; do date && curl -s my-webserver:5678; sleep 2; done;"
+    ]
 
   
   # time-logger:

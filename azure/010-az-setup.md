@@ -27,5 +27,5 @@ You should see in your list the following entry:
 ```
 This corresponds to the Azure subscription that we will use for the project. If you go to portal.azure.com you'll see the web interface for the subscription. Here you can use the GUI to add and interact with Azure resources.
 
-Many actions related to working with Azure resources can be done both via Azure CLI and through the portal. Some actions, however, may only be available through the portal. 
+Many actions related to working with Azure resources can be done both via Azure CLI and through the portal.  
 
